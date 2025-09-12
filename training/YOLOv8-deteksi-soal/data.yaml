@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['soal-1', 'soal-2', 'soal-3', 'soal-4', 'soal-5']
+
+roboflow:
+  workspace: irvan-km7am
+  project: deteksi-soal-fz2o3
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/irvan-km7am/deteksi-soal-fz2o3/dataset/2

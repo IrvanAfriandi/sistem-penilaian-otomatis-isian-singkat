@@ -1,0 +1,52 @@
+category,key,values
+istilah_ilmiah,fotosintesis,proses pembuatan makanan pada tumbuhan;pengubahan co2 dan air menjadi glukosa;proses pembentukan makanan dengan bantuan sinar matahari
+istilah_ilmiah,respirasi,proses pernapasan;pertukaran oksigen dan karbon dioksida;proses pembakaran makanan untuk menghasilkan energi
+istilah_ilmiah,evaporasi,penguapan;proses perubahan air menjadi uap;penguapan air
+istilah_ilmiah,kondensasi,pengembunan;proses perubahan uap menjadi air;pembentukan tetesan air
+matematika,penjumlahan,tambah;operasi tambah;menambahkan;dijumlahkan
+matematika,pengurangan,kurang;operasi kurang;mengurangi;dikurangi
+matematika,perkalian,kali;operasi kali;mengalikan;dikalikan
+matematika,pembagian,bagi;operasi bagi;membagi;dibagi
+sejarah,proklamasi,17 agustus 1945;kemerdekaan indonesia;pembacaan teks proklamasi
+sejarah,sumpah pemuda,28 oktober 1928;ikrar pemuda indonesia;satu nusa satu bangsa satu bahasa
+sejarah,borobudur,candi buddha;candi terbesar di indonesia;warisan budaya dunia
+sejarah,majapahit,kerajaan hindu-buddha;kerajaan terbesar di nusantara;gajah mada
+geografi,gunung,pegunungan;dataran tinggi;bukit;puncak
+geografi,sungai,aliran air;daerah aliran sungai;waterway
+geografi,pantai,pesisir;tepi laut;daerah pantai;coastal area
+geografi,hutan,kawasan hutan;area berhutan;forest
+bahasa,sinonim,persamaan kata;kata yang sama artinya;padanan kata
+bahasa,antonim,lawan kata;kata yang berlawanan artinya;kebalikan kata
+bahasa,puisi,sajak;karya sastra berima;pantun;syair
+bahasa,prosa,karya sastra tidak berima;cerita;novel;cerpen
+sosial,gotong_royong,kerja sama;tolong menolong;bergotong royong;bekerja bersama
+sosial,musyawarah,berunding;diskusi;rapat;membahas bersama
+sosial,toleransi,tenggang rasa;saling menghormati;menghargai perbedaan
+budaya,batik,kain tradisional;tekstil bermotif;warisan budaya indonesia
+budaya,wayang,pertunjukan tradisional;seni tradisional jawa;puppet show
+budaya,tari,seni gerak;pertunjukan tari;dance;menari
+budaya,gamelan,alat musik tradisional;ensemble musik jawa;traditional music
+olahraga,sepak_bola,football;olahraga dengan bola;permainan 11 orang
+olahraga,bulu_tangkis,badminton;olahraga raket;shuttlecock
+olahraga,renang,berenang;olahraga air;swimming
+agama,sholat,ibadah;sembahyang;prayer;rukun islam
+agama,puasa,menahan makan minum;ramadhan;fasting
+agama,zakat,memberi sedekah;rukun islam ketiga;charity
+teknologi,komputer,pc;laptop;perangkat elektronik;computer
+teknologi,internet,jaringan;world wide web;online;web
+teknologi,handphone,hp;ponsel;smartphone;telepon genggam
+kesehatan,vitamin,nutrisi;gizi;suplemen;zat gizi
+kesehatan,olahraga,aktivitas fisik;exercise;gerak badan;sport
+kesehatan,istirahat,tidur;rest;rehat;break
+lingkungan,daur_ulang,recycle;mengolah sampah;pengolahan limbah
+lingkungan,polusi,pencemaran;kontaminasi;pollution
+lingkungan,konservasi,pelestarian;conservation;menjaga lingkungan
+sains,atom,partikel terkecil;unsur dasar;particle
+sains,molekul,gabungan atom;senyawa;compound
+sains,energi,daya;kekuatan;power;tenaga
+umum,sekolah,pendidikan;institusi belajar;tempat belajar;school
+umum,guru,pengajar;pendidik;teacher;tenaga pengajar
+umum,siswa,murid;pelajar;student;anak didik
+umum,buku,kitab;bacaan;literature;pustaka
+umum,rumah,tempat tinggal;hunian;house;home
+umum,keluarga,family;sanak saudara;orangtua dan anak
