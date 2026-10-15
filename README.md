@@ -13,14 +13,14 @@ Aplikasi untuk melakukan penilaian jawaban isian singkat secara otomatis.
 
 File model tidak disimpan di repository karena ukurannya terlalu besar untuk GitHub.
 
-1. Unduh `crnn.pt` dari [Google Drive](https://drive.google.com/drive/folders/1eOK_Vr8I5ygNW2rwBIqrZfVc-n9cmRub?usp=sharing).
-2. Simpan file tersebut pada lokasi berikut:
+1. Unduh ketiga model (`yolo1.pt`, `yolo2.pt`, dan `crnn.pt`) dari [folder Google Drive](https://drive.google.com/drive/folders/1eOK_Vr8I5ygNW2rwBIqrZfVc-n9cmRub?usp=sharing).
+2. Simpan ketiga file tersebut pada lokasi berikut:
 
    ```text
-   server/app/services/model/crnn.pt
+   server/app/services/model/
    ```
 
-3. Pastikan nama file tepat `crnn.pt` sebelum menjalankan backend.
+3. Pastikan nama file tetap `yolo1.pt`, `yolo2.pt`, dan `crnn.pt` sebelum menjalankan backend.
 
 Jika link Google Drive memerlukan akses khusus, minta izin akses terlebih dahulu atau gunakan akun Google yang telah diberi akses.
 
