@@ -9,6 +9,31 @@ server/__pycache__/
 .env.*
 !.env.example
 
+# Local databases and database dumps
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+
+# Dependencies, build output, and caches
+vendor/
+**/vendor/
+build/
+**/build/
+dist/
+**/dist/
+.cache/
+**/.cache/
+
+# Logs and runtime uploads
+storage/logs/
+storage/uploads/
+storage/app/public/
+server/app/uploads/
+
+# Training service credentials
+training/**/kaggle.json
+
 # Machine-learning model files
 server/app/services/model/*.pt
 server/app/services/model/*.pth

@@ -1,0 +1,52 @@
+{
+  "slug": "penilaian-isian-singkat-otomatis",
+  "title": "Sistem Penilaian Isian Singkat Otomatis",
+  "category": "Pendidikan",
+  "shortDescription": "Kelola ujian dan nilai jawaban isian singkat dengan bantuan AI.",
+  "tags": ["React", "Flask", "AI"],
+  "about": "Aplikasi untuk mengelola kelas, mata pelajaran, siswa, ujian, peserta, dan penilaian jawaban isian singkat. Frontend dibangun dengan React dan backend Flask yang terhubung ke database MySQL serta model computer vision dan NLP.",
+  "features": [
+    "Dashboard statistik kelas, siswa, mata pelajaran, dan ujian",
+    "Pengelolaan kelas, mata pelajaran, dan data siswa dengan pencarian",
+    "Pembuatan ujian, pengelolaan soal, peserta, dan progres pengerjaan",
+    "Upload jawaban dan ekstraksi teks tulisan tangan berbasis model AI",
+    "Review jawaban, penilaian otomatis, dan hasil nilai per soal",
+    "Ekspor lembar soal ke PDF"
+  ],
+  "technologies": [
+    "Python",
+    "Flask 3.1",
+    "Flask-SQLAlchemy",
+    "Flask-JWT-Extended",
+    "MySQL",
+    "PyMySQL",
+    "React 18",
+    "TypeScript",
+    "Vite",
+    "Tailwind CSS",
+    "Radix UI",
+    "Recharts",
+    "PyTorch",
+    "Ultralytics YOLOv8",
+    "CRNN",
+    "Transformers",
+    "Sentence Transformers",
+    "jsPDF"
+  ],
+  "liveUrl": null,
+  "repoUrl": "https://github.com/IrvanAfriandi/sistem-penilaian-otomatis-isian-singkat",
+  "screenshots": [
+    { "file": "01-dashboard.webp", "caption": "Dashboard ringkas dengan statistik kelas, siswa, mata pelajaran, dan ujian." },
+    { "file": "02-daftar-kelas.webp", "caption": "Daftar kelas dengan jumlah siswa dan aksi pengelolaan." },
+    { "file": "03-pencarian-mata-pelajaran.webp", "caption": "Daftar mata pelajaran dengan pencarian aktif." },
+    { "file": "04-daftar-siswa.webp", "caption": "Daftar siswa dummy dengan pencarian aktif." },
+    { "file": "05-daftar-ujian.webp", "caption": "Daftar ujian dengan ringkasan peserta dan progres." },
+    { "file": "06-detail-ujian.webp", "caption": "Detail ujian, progres pengumpulan, dan daftar peserta." },
+    { "file": "07-edit-soal.webp", "caption": "Form pengelolaan soal ujian dengan data contoh." },
+    { "file": "08-detail-jawaban-peserta.webp", "caption": "Detail jawaban dan penilaian peserta ujian." },
+    { "file": "09-upload-jawaban.webp", "caption": "Form upload jawaban dengan file contoh dummy yang sudah dipilih." },
+    { "file": "10-penilaian-otomatis.webp", "caption": "Alur review jawaban dan penilaian otomatis berbasis AI." },
+    { "file": "11-hasil-penilaian.webp", "caption": "Hasil penilaian per soal dengan nilai dummy." },
+    { "file": "12-login.webp", "caption": "Halaman login aplikasi." }
+  ]
+}
