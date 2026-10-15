@@ -13,7 +13,7 @@ Aplikasi untuk melakukan penilaian jawaban isian singkat secara otomatis.
 
 File model tidak disimpan di repository karena ukurannya terlalu besar untuk GitHub.
 
-1. Unduh `crnn.pt` dari Google Drive: **[TEMPATKAN LINK GOOGLE DRIVE DI SINI]**.
+1. Unduh `crnn.pt` dari [Google Drive](https://drive.google.com/drive/folders/1eOK_Vr8I5ygNW2rwBIqrZfVc-n9cmRub?usp=sharing).
 2. Simpan file tersebut pada lokasi berikut:
 
    ```text
